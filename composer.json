@@ -1,5 +1,5 @@
 {
-    "name": "simpleweb/saas-bundle",
+    "name": "haizibinbin/saas-bundle",
     "type": "symfony-bundle",
     "description": "Symfony2 bundle that makes it easier to build subscription-based SaaS products",
     "keywords": [ "simpleweb", "saas" ],
